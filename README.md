@@ -242,4 +242,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update:  16.06.2025 05:51 Link is now clickable and functioning
+
+
+Update:  17.06.2025 05:30:57
